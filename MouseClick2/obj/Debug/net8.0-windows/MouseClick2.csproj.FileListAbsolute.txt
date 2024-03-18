@@ -1,0 +1,16 @@
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\bin\Debug\net8.0-windows\MouseClick2.exe
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\bin\Debug\net8.0-windows\MouseClick2.deps.json
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\bin\Debug\net8.0-windows\MouseClick2.runtimeconfig.json
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\bin\Debug\net8.0-windows\MouseClick2.dll
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\bin\Debug\net8.0-windows\MouseClick2.pdb
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\MouseClick2.Form1.resources
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\MouseClick2.csproj.GenerateResource.cache
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\MouseClick2.GeneratedMSBuildEditorConfig.editorconfig
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\MouseClick2.AssemblyInfoInputs.cache
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\MouseClick2.AssemblyInfo.cs
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\MouseClick2.csproj.CoreCompileInputs.cache
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\MouseClick2.dll
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\refint\MouseClick2.dll
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\MouseClick2.pdb
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\MouseClick2.genruntimeconfig.cache
+E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\obj\Debug\net8.0-windows\ref\MouseClick2.dll

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MouseClick2</id>
+    <version>1.0.0</version>
+    <authors>MouseClick2</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\bin\Debug\net8.0-windows\MouseClick2.runtimeconfig.json" target="lib\net8.0-windows7.0\MouseClick2.runtimeconfig.json" />
+    <file src="E:\360MoveData\Users\666\Desktop\Lis\myProject\MouseClick2\bin\Debug\net8.0-windows\MouseClick2.dll" target="lib\net8.0-windows7.0\MouseClick2.dll" />
+  </files>
+</package>
